@@ -14,7 +14,7 @@ author:
       icon: "fab fa-youtube"
       url: "https://youtube.com/@austinsangle"
 
-remote_theme: "mmistakes/minimal-mistakes@latest"
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-include-cache
